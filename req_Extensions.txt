@@ -1,0 +1,6 @@
+pip install matplotlib
+pip install Pillow
+pip install pybase64
+pip install opencv-python
+pip install numpy
+pip install Flask
